@@ -1,0 +1,23 @@
+{
+  "name": "NagrikPrahari — Civic Hazard Reporting & Resolution",
+  "short_name": "NagrikPrahari",
+  "description": "Civic hazard reporting and resolution platform for Indian municipal bodies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F3",
+  "theme_color": "#0F2A47",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

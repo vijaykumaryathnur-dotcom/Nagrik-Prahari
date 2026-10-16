@@ -1,0 +1,8 @@
+{
+  "name": "NagrikPrahari",
+  "description": "Civic hazard reporting and resolution platform for Indian municipal bodies.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
